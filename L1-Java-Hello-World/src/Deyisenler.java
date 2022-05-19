@@ -1,4 +1,3 @@
-import org.w3c.dom.ls.LSOutput;
 
 public class Deyisenler {
     //String
@@ -7,6 +6,8 @@ public class Deyisenler {
     //double
     //float
     //char
+
+    //JVM - JAVA Virtual Masin
 
     public static void main(String[] args) {
         String adSoyad = "Emil Allahverdiyev. 27 yasi var!"; //simvollar yigini
@@ -23,7 +24,30 @@ public class Deyisenler {
 
         byte d = (byte) yas;
 
+        //int -> Integer
+        //double -> Double
+        //float -> Float
+
+        Integer yas2 = 25;
+        Double maas2 = 34.7;
+
+
+
         System.out.println(d);
+
+
+        long l1 = 9223372036854775807L;
+
+        int i1 = (int) l1;
+
+        System.out.println("i1= "+i1);
+
+
+        int i2 = 2147483647;
+
+        long l2 = i2;
+
+        System.out.println("l2="+l2);
 
     }
 }
