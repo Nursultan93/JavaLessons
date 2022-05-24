@@ -1,0 +1,42 @@
+
+T
+java:S1854 "9Remove this useless assignment to local variable "maas2".(ï¤îøÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "yas2".(ğ±ä„
+P
+java:S1854"5Remove this useless assignment to local variable "c".(»º¬úÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "deyer".(Üé×
+Y
+java:S1854">Remove this useless assignment to local variable "shortDeyer".(ø™ÇŠúÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "simvol".(€îàâ
+Z
+java:S1854"?Remove this useless assignment to local variable "ikinciMaasi".( â²¬ùÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "maasi".(ÏÒÈå
+V
+java:S1854";Remove this useless assignment to local variable "adSoyad".(½¡éØúÿÿÿÿ
+G
+java:S1481",Remove this unused "adSoyad" local variable.(½¡éØúÿÿÿÿ
+@
+java:S1481"*Remove this unused "maasi" local variable.(ÏÒÈå
+K
+java:S1481"0Remove this unused "ikinciMaasi" local variable.( â²¬ùÿÿÿÿ
+G
+java:S1481"1Remove this unused "booleanDeyer" local variable.(©§•
+A
+java:S1481"+Remove this unused "simvol" local variable.(€îàâ
+J
+java:S1481"/Remove this unused "shortDeyer" local variable.(ø™ÇŠúÿÿÿÿ
+@
+java:S1481"*Remove this unused "deyer" local variable.(Üé×
+A
+java:S1481"&Remove this unused "c" local variable.(»º¬úÿÿÿÿ
+?
+java:S1481")Remove this unused "yas2" local variable.(ğ±ä„
+E
+java:S1481 "*Remove this unused "maas2" local variable.(ï¤îøÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(¯ô¢ô
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(œ£êÁşÿÿÿÿ8Ğ¾ıí0
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(æÆ×8µ„†î0

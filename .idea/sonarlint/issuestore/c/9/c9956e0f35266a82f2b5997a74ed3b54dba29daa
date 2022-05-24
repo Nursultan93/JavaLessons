@@ -1,0 +1,20 @@
+
+L
+java:S1854""6Remove this useless assignment to local variable "i1".(œ¤‰
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶Ÿıº
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(æßè´üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(”‰ïî
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÇÕÃøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹¥ˆ‹
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÿŒÙ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Êü¸ø
+M	java:S106"9Replace this use of System.out or System.err by a logger.(òĞô!
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›îÿ‚ÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Çï“
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤ê÷§
+=
+java:S1481""'Remove this unused "i1" local variable.(œ¤‰
+N	java:S106("9Replace this use of System.out or System.err by a logger.(óÅ´¢
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ

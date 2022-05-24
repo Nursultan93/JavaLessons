@@ -1,5 +1,3 @@
-
-
 public class HelloWorld {
 
     public String salam = "Salam";
@@ -21,8 +19,6 @@ public class HelloWorld {
         System.out.println(yas);
 
         System.out.println("necesen");
-
-
 
 
     }
