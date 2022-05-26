@@ -35,6 +35,10 @@ public class StaticOrNonStaticVariables {
         System.out.println(StaticOrNonStaticVariables.DIL);
 
 
+    }
 
+
+    public void print() {
+        System.out.println(Properti.version +" "+Properti.url+" "+Properti.parol);
     }
 }

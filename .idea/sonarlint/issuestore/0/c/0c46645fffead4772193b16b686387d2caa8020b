@@ -1,0 +1,9 @@
+
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áë¹úÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÃŒð’
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·áÝâûÿÿÿÿ
+Q
+java:S1854""6Remove this useless assignment to local variable "ec".(Ý•œ©ÿÿÿÿÿ
+B
+java:S1481""'Remove this unused "ec" local variable.(Ý•œ©ÿÿÿÿÿ

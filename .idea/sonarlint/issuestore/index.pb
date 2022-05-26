@@ -13,8 +13,6 @@ W
 ,L1-Java-Hello-World/src/Proqramlama/php.java,2/8/2821f7eab3001e9ea0f1bae1313c2598ed5591bc
 [
 +L1-Java-Hello-World/src/WrapperClasses.java,c/9/c9956e0f35266a82f2b5997a74ed3b54dba29daa
-X
-(L1-Java-Hello-World/src/Hesablayici.java,f/0/f05a0d0af8d7803cbb1a57a96773e2a0f6e7ea34
 \
 ,L1-Java-Hello-World/src/DeyisenlerClass.java,e/c/ec6f4ce67f7e21f501d30be7259803320ab014f6
 W
@@ -23,3 +21,11 @@ T
 $L1-Java-Hello-World/src/Casting.java,e/9/e9e1c3f4111d9c58fd7b908b9d96945dc7fbee5c
 Y
 )L1-Java-Hello-World/src/ExampleClass.java,0/c/0c46645fffead4772193b16b686387d2caa8020b
+C
+L2-Java-Methods.iml,1/3/1390401277c4c1efb4f678968183458b24869ceb
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+@
+Java Lessons.iml,3/d/3db85960c45a37a058b8dbceed3cdc432b87b197
+W
+'L1-Java-Hello-World/src/HelloWorld.java,7/4/747aba5d1ca537c3f8e35ae5f8d58ff14c1b8106
