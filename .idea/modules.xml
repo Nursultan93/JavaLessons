@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/L1-Java-Hello-World/L1-Java-Hello-World.iml" filepath="$PROJECT_DIR$/L1-Java-Hello-World/L1-Java-Hello-World.iml" />
       <module fileurl="file://$PROJECT_DIR$/L2-Java-Methods.iml" filepath="$PROJECT_DIR$/L2-Java-Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/L3-Java-Arrays/L3-Java-Arrays.iml" filepath="$PROJECT_DIR$/L3-Java-Arrays/L3-Java-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L4-Java-AccessMod-Statements/L4-Java-AccessMod-Statements.iml" filepath="$PROJECT_DIR$/L4-Java-AccessMod-Statements/L4-Java-AccessMod-Statements.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,23 @@
+
+k
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(…õÓòûÿÿÿÿ
+e
+java:S1104"OMake yas a static final constant or non-public and provide accessors if needed.(‚ø¨Ÿ
+o
+java:S1104"YMake oxuduguMekteb a static final constant or non-public and provide accessors if needed.(¿Ù²×
+I
+java:S1444"3Make this "public static oxuduguMekteb" field final(¿Ù²×
+<
+java:S1170"!Make this final field static too.(ĞÍæñıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûÊ†ã
+N	java:S106"9Replace this use of System.out or System.err by a logger.(É«µ‡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÛŠÕ÷ıÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(ÛŠÕ÷ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ìğ¦Åüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûÊ†ã
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(«Ôş…øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(›Ú·µûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Á¥¶Ÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(Å®óŠÿÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(—¯”

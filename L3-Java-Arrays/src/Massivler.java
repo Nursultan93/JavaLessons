@@ -21,6 +21,9 @@ public class Massivler {
             System.out.println(seherler[i]);
         }
 
+
+
+
     }
 
 

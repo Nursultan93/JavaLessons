@@ -1,0 +1,18 @@
+
+i
+java:S1104"SMake version a static final constant or non-public and provide accessors if needed.(ºë©”
+j
+java:S1104"OMake url a static final constant or non-public and provide accessors if needed.(®›ÿÊıÿÿÿÿ
+l
+java:S1104"QMake parol a static final constant or non-public and provide accessors if needed.(±ÔÍØÿÿÿÿÿ
+C
+java:S1444"-Make this "public static version" field final(ºë©”
+D
+java:S1444")Make this "public static url" field final(®›ÿÊıÿÿÿÿ
+F
+java:S1444"+Make this "public static parol" field final(±ÔÍØÿÿÿÿÿ
+R
+java:S1854"5Remove this useless assignment to local variable "p".(ªŠó8²¹™0
+C
+java:S1481"&Remove this unused "p" local variable.(ªŠó8³¹™0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8Šî›0

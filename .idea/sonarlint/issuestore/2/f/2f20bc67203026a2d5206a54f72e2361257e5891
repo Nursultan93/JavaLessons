@@ -1,0 +1,12 @@
+
+
+java:S4165"bRemove this useless assignment; "say2" already holds the assigned value along all execution paths.(”Ϋ†8έ†¶0
+w
+java:S4165"aRemove this useless assignment; "say" already holds the assigned value along all execution paths.(‰±ί«
+V	java:S125"<This block of commented-out lines of code should be removed.(’ιςϊÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Β€ÿ²ϊÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­·³Μ8Τµµ0
+E
+java:S1656"/Remove or correct this useless self-assignment.(‰±ί«
+L
+java:S1656"/Remove or correct this useless self-assignment.(”Ϋ†8α†¶0
