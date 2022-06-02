@@ -47,3 +47,9 @@ L
 L3-Java-Arrays/src/Test.java,5/a/5aae7b0b5884a3c5b1222e6d6e61d36ad5dba3e4
 X
 (L1-Java-Hello-World/src/Hesablayici.java,f/0/f05a0d0af8d7803cbb1a57a96773e2a0f6e7ea34
+m
+=L4-Java-AccessMod-Statements/L4-Java-AccessMod-Statements.iml,2/0/20d75c3e7f16ec5ae72e112b1c961fe971b6b0fa
+Q
+!L3-Java-Arrays/src/Massivler.java,6/4/64d05d95c6a0471b1f0c1d6155fdf94a91801914
+c
+3L4-Java-AccessMod-Statements/src/neqliyat/Test.java,3/1/319e4632936125f58df1bc9fae7556a482d4711a

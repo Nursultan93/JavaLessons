@@ -10,6 +10,39 @@ public class Statements {
                 new Car("Opel", 1999, "Black", false)
         };
 
+
+        int[] array = new int[]{1,3,5,2,7};
+
+
+//        for (int param : array){
+//            System.out.println(param);
+//        }
+
+//        for (int i=0; i<array.length; i++){
+//            System.out.println(array[i]);
+//        }
+
+
+//        Car c = new Car("BMW", 2000, "While", false);
+//        c.getModel();
+
+//        for (Car c : cars ) { //int i=0; i<cars.length; i++
+//            System.out.println(c.getModel());
+//        }
+
+
+
+//        for (int i=0; i<cars.length; i++){
+//            System.out.println(cars[i].getModel());
+//        }
+
+        //cars[0] = BMW
+        //cars[1] = Audi
+        //cars[2] = Opel
+
+
+
+
         //foreach for(Car c : cars)
 //        for (Car c: cars){
 //            System.out.println("Model: "+c.getModel());
@@ -49,6 +82,10 @@ public class Statements {
 //            System.out.println("=====================");
 //            j++;
 //        }while (j<cars.length);
+
+
+
+
 
 
 
