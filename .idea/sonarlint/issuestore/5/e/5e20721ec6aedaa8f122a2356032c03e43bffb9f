@@ -1,0 +1,18 @@
+
+[
+java:S1854"9Remove this useless assignment to local variable "array".(îèÍ¦úÿÿÿÿ8ÍŸ­’0
+S
+java:S1854"8Remove this useless assignment to local variable "cars".(Å¹âÏıÿÿÿÿ
+D
+java:S1481")Remove this unused "cars" local variable.(Å¹âÏıÿÿÿÿ
+L
+java:S1481"*Remove this unused "array" local variable.(îèÍ¦úÿÿÿÿ8ÎŸ­’0
+X	java:S125"<This block of commented-out lines of code should be removed.(¢Õ¹¨8ÏŸ­’0
+V	java:S125"<This block of commented-out lines of code should be removed.(Àû¶ñûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(îØ†“ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(îë®©
+Q	java:S125#"<This block of commented-out lines of code should be removed.(ššœÊ
+V	java:S125."<This block of commented-out lines of code should be removed.(·ÖªĞüÿÿÿÿ
+Q	java:S1257"<This block of commented-out lines of code should be removed.(ä°¥¯
+V	java:S125@"<This block of commented-out lines of code should be removed.( ø®Êûÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(ËŠõàøÿÿÿÿ

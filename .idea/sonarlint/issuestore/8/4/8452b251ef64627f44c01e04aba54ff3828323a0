@@ -1,0 +1,11 @@
+
+S
+java:S1854	"8Remove this useless assignment to local variable "cars".(Å¹âÏýÿÿÿÿ
+D
+java:S1481	")Remove this unused "cars" local variable.(Å¹âÏýÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8Ä‚„Ý‘0
+Q	java:S125$"<This block of commented-out lines of code should be removed.(ššœÊ
+V	java:S125+"<This block of commented-out lines of code should be removed.(Å·©…ýÿÿÿÿ
+V	java:S1255"<This block of commented-out lines of code should be removed.(Å·©…ýÿÿÿÿ
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8È‚„Ý‘0

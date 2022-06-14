@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/L3-Java-Arrays/L3-Java-Arrays.iml" filepath="$PROJECT_DIR$/L3-Java-Arrays/L3-Java-Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/L4-Java-AccessMod-Statements/L4-Java-AccessMod-Statements.iml" filepath="$PROJECT_DIR$/L4-Java-AccessMod-Statements/L4-Java-AccessMod-Statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/L5-Java-Interitanse/L5-Java-Interitanse.iml" filepath="$PROJECT_DIR$/L5-Java-Interitanse/L5-Java-Interitanse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L6-Java-Inheritance2-Interface-Abstract-Polymorphism/L6-Java-Inheritance2-Interface-Abstract-Polymorphism.iml" filepath="$PROJECT_DIR$/L6-Java-Inheritance2-Interface-Abstract-Polymorphism/L6-Java-Inheritance2-Interface-Abstract-Polymorphism.iml" />
     </modules>
   </component>
 </project>
