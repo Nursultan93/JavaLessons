@@ -6,4 +6,5 @@ public class Qartal extends Quslar implements ColQuslari, UcabilenQuslar{
     public void yemekYe() {
         System.out.println("Qartal yemek yeyir");
     }
+
 }
