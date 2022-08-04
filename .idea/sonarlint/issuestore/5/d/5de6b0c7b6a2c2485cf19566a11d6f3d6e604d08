@@ -1,0 +1,13 @@
+
+Z
+java:S1854
+"?Remove this useless assignment to local variable "cixmaNetice".(ªÜŒãıÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "netice".(¹™¥
+A
+java:S1481"+Remove this unused "netice" local variable.(¹™¥
+K
+java:S1481
+"0Remove this unused "cixmaNetice" local variable.(ªÜŒãıÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(Œá¦…8‹…¯ïŸ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œÎŒÖùÿÿÿÿ8ÂšµïŸ0

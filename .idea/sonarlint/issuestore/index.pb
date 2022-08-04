@@ -37,8 +37,6 @@ U
 %L3-Java-Arrays/src/ArraysExample.java,e/8/e8d704daedf21e434d85267d99de2ae25765b367
 R
 "L3-Java-Arrays/src/Deyisenler.java,5/a/5a5005e0dcf40a1b6411a40d20f2d01bec120571
-L
-L3-Java-Arrays/src/Test.java,5/a/5aae7b0b5884a3c5b1222e6d6e61d36ad5dba3e4
 X
 (L1-Java-Hello-World/src/Hesablayici.java,f/0/f05a0d0af8d7803cbb1a57a96773e2a0f6e7ea34
 m
@@ -109,8 +107,6 @@ NL6-Java-Inheritance2-Interface-Abstract-Polymorphism/src/inter/ColQuslari.java
 RL6-Java-Inheritance2-Interface-Abstract-Polymorphism/src/inter/UcabilenQuslar.java,2/f/2f7f1dd64c8d20e7b9f4ccc19f83c3a79444f2a8
 T
 $L2-Java-Methods/src/JavaMethods.java,9/e/9ef920a744bea5cd76f283eb09d3804fcb3684a4
-S
-#L2-Java-Methods/src/MethodsExm.java,7/e/7e27154a12811ef1f2720bf9794440ba37fe571f
 Y
 )L2-Java-Methods/src/OverloadsMethods.java,1/b/1b6e3ad10f270c56833c10f03a6f8a66b2c03c34
 Œ
@@ -183,3 +179,17 @@ r
 BL5-Java-Interitanse/src/inheritance_exm/interfaces_emx/Quslar.java,f/d/fddc9dbeedd21bfb712be48cdbe151131e550ab3
 q
 AL5-Java-Interitanse/src/inheritance_exm/interfaces_emx/Toyuq.java,5/7/5739c0c1c203847af13782306cff3172349bddaa
+r
+BL5-Java-Interitanse/src/inheritance_exm/interfaces_emx/Qartal.java,9/f/9f959b2bd429e2e1e65cb0e66af9ba35edb19bf0
+o
+?L5-Java-Interitanse/src/inheritance_exm/interfaces_emx/Qaz.java,6/1/61693f95ed6e3af1882bad4e2f5cc2c8962da475
+v
+FL5-Java-Interitanse/src/inheritance_exm/interfaces_emx/ColQuslari.java,6/e/6e075cb7edbb6348831ea070387bb5bfbbc0b917
+u
+EL5-Java-Interitanse/src/inheritance_exm/interfaces_emx/EvQuslari.java,5/2/525a21658ad5ef7aacd2fdffa5be370a412d7428
+a
+1L5-Java-Interitanse/src/inheritance_exm/Main.java,7/3/733a86311c40c850a433ac8877ebb2d255890a27
+Y
+)L7-Java-Inner-Class/src/inner/Xarici.java,8/0/80387a270d5516567994f76f2bd424738cbcadb5
+S
+#L2-Java-Methods/src/MethodsExm.java,7/e/7e27154a12811ef1f2720bf9794440ba37fe571f

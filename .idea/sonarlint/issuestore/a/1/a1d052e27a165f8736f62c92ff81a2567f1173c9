@@ -1,0 +1,11 @@
+
+i
+java:S1104"SMake gozSayi a static final constant or non-public and provide accessors if needed.(°ž³´
+k
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(¸ú¼Ýþÿÿÿÿ
+B
+java:S2387","gozSayi" is the name of a field in "Insan".(°ž³´
+D
+java:S2387")"name" is the name of a field in "Insan".(¸ú¼Ýþÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(á‰š™úÿÿÿÿ

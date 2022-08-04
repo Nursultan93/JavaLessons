@@ -1,0 +1,11 @@
+
+{
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "c".(ş¬©Œşÿÿÿÿ8ƒ‚Üš0
+v
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "c".(ÑûÎµ8ƒ‚Üš0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü8‰ƒ‚Üš0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü8‰ƒ‚Üš0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8Šƒ‚Üš0
+R
+java:S2209$"5Change this instance-reference to a static reference.(¦³ùå8Šƒ‚Üš0
+U	java:S106("9Replace this use of System.out or System.err by a logger.(¯ô¢ô8Šƒ‚Üš0

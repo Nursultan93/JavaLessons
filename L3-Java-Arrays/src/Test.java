@@ -7,5 +7,6 @@ public class Test {
         System.out.println(Deyisenler.yasi);
         System.out.println(d.fin);
         System.out.println(d.sevdiyiSeherler[2]);
+
     }
 }
