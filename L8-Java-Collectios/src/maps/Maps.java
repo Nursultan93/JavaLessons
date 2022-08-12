@@ -2,8 +2,11 @@ package maps;
 
 import com.sun.jdi.Value;
 
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
@@ -11,10 +14,10 @@ public class Maps {
     public static void main(String[] args) {
 
 
-        Map<String, String> isciler = new HashMap<>();
-        isciler.put("5SSNCW", "Samir");
-        isciler.put("3SJNSA", "Nursultan");
-        isciler.put("S09DSA", "Elcin");
+//        Map<String, String> isciler = new HashMap<>();
+//        isciler.put("5SSNCW", "Samir");
+//        isciler.put("3SJNSA", "Nursultan");
+//        isciler.put("S09DSA", "Elcin");
 
 
 
