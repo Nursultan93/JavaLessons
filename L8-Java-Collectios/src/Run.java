@@ -1,17 +1,18 @@
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
-import java.util.Set;
-import java.util.Stack;
-import java.util.Vector;
+import sets.Sets;
 
-public class Run {
+public class Run extends ClassLoader{
+
+
     public static void main(String[] args) {
 
+        int a =0;
+
+        if (a==1 & a++==2)
+            System.out.println("Test");
+
+        System.out.println(a);
 
 
     }
 }
+

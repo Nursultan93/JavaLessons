@@ -11,8 +11,5 @@ public class Qartal extends Quslar implements ColQuslari{
                 System.out.println("Qartal yem axtarir");
         }
 
-        @Override
-        public void colQusuUcur() {
-                System.out.println("Qartal Ucur");
-        }
+
 }

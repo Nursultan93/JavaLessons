@@ -1,0 +1,9 @@
+
+W
+java:S1854":Remove this useless assignment to local variable "animal".(–‰û…8Š Æÿ¥0
+c
+java:S1854"HRemove this useless assignment to local variable "nonStaticInnerClass1".(Œñ¬½ýÿÿÿÿ
+[
+java:S1481"9Remove this unused "nonStaticInnerClass1" local variable.(Œñ¬½ýÿÿÿÿ8é±Äÿ¥0
+H
+java:S1481"+Remove this unused "animal" local variable.(–‰û…8‹ Æÿ¥0

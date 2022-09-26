@@ -7,6 +7,12 @@ import java.util.List;
 import java.util.Set;
 
 public class Sets {
+
+
+    static {
+        System.out.println("Sets loaded");
+    }
+
     public static void main(String[] args) {
         Set<String> adlar = new HashSet<>();
 

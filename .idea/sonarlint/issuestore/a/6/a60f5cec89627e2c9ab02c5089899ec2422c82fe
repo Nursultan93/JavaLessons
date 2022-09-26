@@ -1,0 +1,15 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÛŠè—
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ê•”Ğ
+V	java:S125"<This block of commented-out lines of code should be removed.(„¤š÷ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(è–ÕÜ
+Q	java:S125"<This block of commented-out lines of code should be removed.(–åí°
+Q	java:S125"<This block of commented-out lines of code should be removed.(ö‡ÄÙ
+V	java:S125"<This block of commented-out lines of code should be removed.(®ÀÇúÿÿÿÿ
+V	java:S125 "<This block of commented-out lines of code should be removed.(æ¬îûÿÿÿÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(ÏšôÊûÿÿÿÿ
+V	java:S125$"<This block of commented-out lines of code should be removed.(œÆ¯Øÿÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(Ô‰×
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
