@@ -1,0 +1,20 @@
+
+J
+java:S1854"5Remove this useless assignment to local variable "a".(¾œ–E
+;
+java:S1481"&Remove this unused "a" local variable.(¾œ–E
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½‚ø¹ûÿÿÿÿ
+?
+java:S1481 ")Remove this unused "data" local variable.(Ç÷Ü©
+E
+java:S1481$"*Remove this unused "deyer" local variable.(õãİúÿÿÿÿ
+@
+java:S1481("+Remove this unused "deyer2" local variable.(—„§5
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(”™ÉÛ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(À´Éÿÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(œ¶Ìêşÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(Ÿ·şë
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ÌÄÄøÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ù×Ş
+H
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ

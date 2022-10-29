@@ -1,0 +1,12 @@
+
+a
+java:S2147"DCombine this catch with the one at line 11, which has the same body.(ï­£Ä8ŞçÊØ·0
+a
+java:S2147"DCombine this catch with the one at line 11, which has the same body.(”ı¾8šÒËØ·0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ö‹ŞÃ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(’Ãék
+‰
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(¶šÆüüÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¶šÆüüÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êÛˆÜûÿÿÿÿ8ûĞ¿Ù·0

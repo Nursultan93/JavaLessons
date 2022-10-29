@@ -1,0 +1,15 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ëúšÈ
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ëúšÈ
+V	java:S125"<This block of commented-out lines of code should be removed.(“òìğüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¢ÚõÕ
+Q	java:S125"<This block of commented-out lines of code should be removed.(–éºü
+Q	java:S125"<This block of commented-out lines of code should be removed.(–àĞÕ
+G
+java:S1128"1Remove this unused import 'lists.model.Employee'.(İ£Å‚
+J
+java:S1128"/Remove this unused import 'lists.model.Person'.(ÙæúÔüÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ

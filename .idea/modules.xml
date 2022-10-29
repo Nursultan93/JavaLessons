@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java Lessons.iml" filepath="$PROJECT_DIR$/Java Lessons.iml" />
       <module fileurl="file://$PROJECT_DIR$/L1-Java-Hello-World/L1-Java-Hello-World.iml" filepath="$PROJECT_DIR$/L1-Java-Hello-World/L1-Java-Hello-World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L10-Java-Threads/L10-Java-Threads.iml" filepath="$PROJECT_DIR$/L10-Java-Threads/L10-Java-Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/L2-Java-Methods.iml" filepath="$PROJECT_DIR$/L2-Java-Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/L3-Java-Arrays/L3-Java-Arrays.iml" filepath="$PROJECT_DIR$/L3-Java-Arrays/L3-Java-Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/L4-Java-AccessMod-Statements/L4-Java-AccessMod-Statements.iml" filepath="$PROJECT_DIR$/L4-Java-AccessMod-Statements/L4-Java-AccessMod-Statements.iml" />

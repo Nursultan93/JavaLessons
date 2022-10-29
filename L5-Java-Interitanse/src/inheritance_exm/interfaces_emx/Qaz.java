@@ -12,8 +12,4 @@ public class Qaz extends Quslar implements EvQuslari, ColQuslari{
         System.out.println("Qaz gezir");
     }
 
-    @Override
-    public void colQusuUcur() {
-        System.out.println("Qaz ucur");
-    }
 }
