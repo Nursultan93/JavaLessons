@@ -343,3 +343,13 @@ W
 'L10-Java-Threads/src/tapsiriq/Main.java,6/a/6a19c7bb4b36b47e24f1590d6ede6dadf09f195f
 b
 2L10-Java-Threads/src/tapsiriq/EmployeeService.java,e/c/ec3a8bed28e2355357c0b938216d18455270f84d
+a
+1L11-JDBC/gradle/wrapper/gradle-wrapper.properties,6/2/625a46f41d98b7126074d09dd383f0ba76479c0d
+E
+L11-JDBC/build.gradle,d/5/d544878e6cf195febe96fb98b9293ce177fc0c7f
+D
+L11-JDBC/gradlew.bat,e/8/e86272e4b9c4bb34e07c03d1f7b943cb2c64b43c
+@
+L11-JDBC/gradlew,0/d/0d1f5adf00453d84a1e7ad9f0bc527d42960307a
+O
+L10-Java-Threads/src/Masin.java,6/8/68bee36b9a4bd3ba753aa0e60ea2bf459d30ad66
