@@ -295,8 +295,6 @@ r
 BL5-Java-Interitanse/src/inheritance_exm/interfaces_emx/Qartal.java,9/f/9f959b2bd429e2e1e65cb0e66af9ba35edb19bf0
 P
  L1-Java-Hello-World/src/RUn.java,6/2/62d282cf86d4e57ad27d1c4560e78fcb2fc3e489
-O
-L8-Java-Collectios/src/Run.java,f/b/fbbf4086084a71bcaa1ba476c85d0c1a0f0a5ccc
 Y
 )L9-Java-Exceptions/src/exception/Run.java,f/3/f38c63c172dc55f3ef66f29daabd2e5661c033b9
 U
@@ -343,13 +341,23 @@ W
 'L10-Java-Threads/src/tapsiriq/Main.java,6/a/6a19c7bb4b36b47e24f1590d6ede6dadf09f195f
 b
 2L10-Java-Threads/src/tapsiriq/EmployeeService.java,e/c/ec3a8bed28e2355357c0b938216d18455270f84d
-a
-1L11-JDBC/gradle/wrapper/gradle-wrapper.properties,6/2/625a46f41d98b7126074d09dd383f0ba76479c0d
-E
-L11-JDBC/build.gradle,d/5/d544878e6cf195febe96fb98b9293ce177fc0c7f
-D
-L11-JDBC/gradlew.bat,e/8/e86272e4b9c4bb34e07c03d1f7b943cb2c64b43c
-@
-L11-JDBC/gradlew,0/d/0d1f5adf00453d84a1e7ad9f0bc527d42960307a
 O
 L10-Java-Threads/src/Masin.java,6/8/68bee36b9a4bd3ba753aa0e60ea2bf459d30ad66
+h
+8L11-JDBC-Gradle/gradle/wrapper/gradle-wrapper.properties,c/5/c55e7d92ad6a5a00ba46d5420dacec3deba1a4b7
+L
+L11-JDBC-Gradle/build.gradle,a/7/a7e399bf5d76d0eae8f1708644a411e27ce87063
+O
+L11-JDBC-Gradle/settings.gradle,0/d/0d2b1efde994132fe99800815f1d43f5b7965223
+K
+L11-JDBC-Gradle/gradlew.bat,9/e/9e11a978154f5271913f87b1f7326a4c1fa3d8e6
+G
+L11-JDBC-Gradle/gradlew,4/a/4aaf0ccafcca7ba3d002547eccb77cc43d99e39f
+W
+'L11-JDBC-Gradle/src/main/java/Main.java,9/0/905782e5c1a3b0da91d9a21bf862b4b60d05d843
+l
+<L11-JDBC-Gradle/src/main/java/connection/MyDbConnection.java,b/c/bcf9b43d6b2de333a06280ff8250d8ed185643a0
+F
+L12-JDBC-Maven/pom.xml,8/6/864eb62b79c4df820ce88f9e728b58873e6bcb57
+a
+1L12-JDBC-Maven/src/main/java/module/Employee.java,9/a/9afd994335397eebd0f120d67ba69aa85681b7d8

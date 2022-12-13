@@ -1,4 +1,6 @@
 import connection.DBConnection;
+import connection.DbHrConnection;
+import module.EmpDep;
 import module.Employee;
 
 import java.util.List;
@@ -6,16 +8,24 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
 
-        DBConnection db = new DBConnection();
+
+        DbHrConnection dbHrConnection = new DbHrConnection();
+
+        List<EmpDep> empDepList =  dbHrConnection.getEmployeeByDepId(3);
+
+        System.out.println(empDepList);
 
 
-        Employee employee = new Employee(2, "Terlan Abbasov", "+994509876543", 3000, 1);
-
-        boolean isUpdated =  db.updateUserById(employee);
-
-        if (isUpdated == true){
-            System.out.println("Employee ubdate olundu");
-        }
+//        DBConnection db = new DBConnection();
+//
+//
+//        Employee employee = new Employee(2, "Terlan Abbasov", "+994509876543", 3000, 1);
+//
+//        boolean isUpdated =  db.updateUserById(employee);
+//
+//        if (isUpdated == true){
+//            System.out.println("Employee ubdate olundu");
+//        }
 
 
 //        Employee employee = db.findEmployeeByPhone("+944328474247");

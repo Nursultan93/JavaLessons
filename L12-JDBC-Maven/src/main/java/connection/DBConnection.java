@@ -112,7 +112,7 @@ public class DBConnection {
 
 
 
-    private void getConnection(){
+    public Connection getConnection(){
         try {
 
             Class.forName("com.mysql.cj.jdbc.Driver");
@@ -122,8 +122,11 @@ public class DBConnection {
 
             System.out.println("Database ile connection yaradildi");
 
+            return connection;
+
         }catch (Exception e) {
             e.printStackTrace();
+            return null;
         }
     }
 
