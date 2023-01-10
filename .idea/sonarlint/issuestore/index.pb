@@ -361,3 +361,21 @@ F
 L12-JDBC-Maven/pom.xml,8/6/864eb62b79c4df820ce88f9e728b58873e6bcb57
 a
 1L12-JDBC-Maven/src/main/java/module/Employee.java,9/a/9afd994335397eebd0f120d67ba69aa85681b7d8
+M
+L13-Generics/L13-Generics.iml,d/7/d727476cdea7af08e36afae4cd30db56f2e5aa60
+i
+9L12-JDBC-Maven/src/main/java/connection/DBConnection.java,c/4/c4856587c36becc26ff51303f72f7dad689d3f54
+k
+;L12-JDBC-Maven/src/main/java/connection/DbHrConnection.java,c/1/c17d8d5da0f7b470206d357588acc4d6a9b61125
+_
+/L12-JDBC-Maven/src/main/java/module/EmpDep.java,9/f/9f84dce2a99d3a76a589edda0ed814b8ffd77d94
+V
+&L12-JDBC-Maven/src/main/java/Main.java,4/b/4bf70daae24da915dcc17060079c2d034fb753c9
+X
+(L13-Generics/src/com/example/Person.java,4/5/4526bf45dfc91485e1a8dfbd39ed81fb8fbb183f
+O
+L8-Java-Collectios/src/Run.java,f/b/fbbf4086084a71bcaa1ba476c85d0c1a0f0a5ccc
+b
+2L13-Generics/src/com/example/GenericMethodExm.java,e/b/ebc903dd8f3a5c2afae8b937ec8551fe888629f3
+^
+.L13-Generics/src/com/example/GenericClass.java,9/a/9a49c4b8a036be9c558fec05c3d3bf2d2a09960a

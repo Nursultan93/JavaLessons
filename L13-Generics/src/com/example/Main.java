@@ -5,6 +5,8 @@ import java.util.EmptyStackException;
 public class Main {
     public static void main(String[] args) {
 
+
+
 //        GenericClass<Integer> g = new GenericClass<>(3);
 //        System.out.println(g.getData());
 
